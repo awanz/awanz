@@ -8,7 +8,7 @@ I'm web developer, i have skill with HTML, JS and CSS. My language programmer i 
 ![github stats](https://github-readme-stats.vercel.app/api?username=awanz&show_icons=true)
 
 ### 📮 Get In Touch!
-- Instagram: https://instagram.com/me.awan.es
+- Instagram: https://instagram.com/awanverse
 - Personal Blog: https://awan.es/
 - Medium: https://medium.com/@awanz
 - LinkedIn: https://www.linkedin.com/in/awaan
