@@ -4,7 +4,7 @@ Hi 👋 My name is Hermawan
 Web Developer and Mobile Developer
 ----------------------------------
 
-I'm web developer, I've been learning to code for 7 Years. i'm have skill with HTML, JS and CSS. My language programmer i use PHP, C++, Phyton. I'm have too experiance Server with DigitalOcean and Heroku. I like hardware like Arduino or Raspberry Pi.
+I'm web developer, I've been learning to code for 8 Years. i'm have skill with HTML, JS and CSS. My language programmer i use PHP, C++, Phyton. I'm have too experiance Server with DigitalOcean and Heroku. I like hardware like Arduino or Raspberry Pi.
 
 * 🌍  I'm based in Tasikmalaya
 * 🖥️  See my portfolio at [MyPortfolio](http://me.awan.es)
