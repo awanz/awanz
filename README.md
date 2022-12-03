@@ -80,8 +80,6 @@ src="https://img.shields.io/github/followers/awanz?logo=github&style=for-the-bad
 
 [![Awanz's github trophy](https://github-profile-trophy.vercel.app/?username=awanz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Stargazers over time](https://starchart.cc/awanz/badges.svg)](https://starchart.cc/awanz/badges)
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/awanes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
