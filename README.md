@@ -8,7 +8,7 @@ I'm web developer, I've been learning to code for 8 Years. i'm have skill with H
 
 * 🌍  I'm based in Tasikmalaya
 * 🖥️  See my portfolio at [MyPortfolio](https://blog.awn.web.id)
-* ✉️  You can contact me at [me@awan.es](mailto:me@awn.web.id)
+* ✉️  You can contact me at [me@awn.web.id](mailto:me@awn.web.id)
 * 🧠  I'm learning Laravel, VueJS, NodeJS
 * 🤝  I'm open to collaborating on Web Development, Android, IOT, AI and ML
 * ⚡  I like remote control
