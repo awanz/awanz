@@ -7,7 +7,8 @@ Web Developer and Mobile Developer
 I'm web developer, I've been learning to code for 8 Years. i'm have skill with HTML, JS and CSS. My language programmer i use PHP, Javascript. I'm have too experiance Server with DigitalOcean and Heroku. I like hardware like Arduino or Raspberry Pi.
 
 * 🌍  I'm based in Tasikmalaya
-* 🖥️  See my portfolio at [MyPortfolio](https://blog.awn.web.id)
+* 🖥️  See my portfolio at [My Portfolio](https://awn.web.id)
+* 🖥️  [My Blog](https://blog.awn.web.id)
 * ✉️  You can contact me at [me@awn.web.id](mailto:me@awn.web.id)
 * 🧠  I'm learning Laravel, VueJS, NodeJS
 * 🤝  I'm open to collaborating on Web Development, Android, IOT, AI and ML
